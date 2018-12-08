@@ -2,11 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>RevStackCore.GoogleApis.Core</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>S. Francis</Authors>
+    <Description>Google APIs credentials context</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Net Standard 2.0 release</PackageReleaseNotes>
+    <Copyright>Copyright 2018</Copyright>
+    <PackageTags>RevStackCore Google APIs</PackageTags>	
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Class1.cs" />
-  </ItemGroup>
   <ItemGroup>
     <Folder Include="Context\" />
   </ItemGroup>
