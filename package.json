@@ -1,6 +1,6 @@
 {
   "name": "RevStackCore.GoogleApis.Core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google APIs credentials context",
     "main": "RevStackCore.GoogleApis.Core.sln",
   "scripts": {

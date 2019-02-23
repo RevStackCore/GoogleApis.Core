@@ -3,11 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>RevStackCore.GoogleApis.Core</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Authors>S. Francis</Authors>
     <Description>Google APIs credentials context</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>Net Standard 2.0 release</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/RevStackCore/GoogleApis.Core.git</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/RevStackCore/GoogleApis.Core/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageIconUrl>https://s3.amazonaws.com/revstack/icons/revstackcore-64x64.png</PackageIconUrl>
     <Copyright>Copyright 2018</Copyright>
     <PackageTags>RevStackCore Google APIs</PackageTags>	
   </PropertyGroup>
